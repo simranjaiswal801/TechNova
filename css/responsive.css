@@ -1,0 +1,50 @@
+/* Mobile Devices */
+@media (max-width: 768px) {
+
+    .navbar{
+        flex-direction: column;
+        padding: 15px;
+    }
+
+    .nav-links{
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+
+    .hero{
+        flex-direction: column;
+        text-align: center;
+        padding: 40px 20px;
+    }
+
+    .hero img{
+        width: 100%;
+        max-width: 350px;
+    }
+
+    .services{
+        grid-template-columns: 1fr;
+    }
+
+    .team{
+        grid-template-columns: 1fr;
+    }
+
+    .contact-container{
+        flex-direction: column;
+    }
+}
+
+/* Tablets */
+@media (min-width:769px) and (max-width:1024px){
+
+    .services{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .team{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}
