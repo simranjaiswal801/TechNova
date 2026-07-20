@@ -6,13 +6,13 @@ A modern, responsive, and visually engaging multi-page business website built us
 
 ## 🌐 Live Demo
 
-🔗 https://simranjaiswal801.github.io/TechNova/
+🔗  https://simranjaiswal801.github.io/TechNova_Digital_Solutions/
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/simranjaiswal801/TechNova
+🔗 https://github.com/simranjaiswal801/TechNova_Digital_Solutions
 
 ---
 
